@@ -1,8 +1,6 @@
-# c-url-shortener
+# Shorten your Long URLs with **c-url-shortener**
 
-## Shorten your Long URLs with **c-url-shortener**
 Useful for shortening URLs for sharing.
-
 ## Installation
 ```sh
 npm i c-url-shortener
